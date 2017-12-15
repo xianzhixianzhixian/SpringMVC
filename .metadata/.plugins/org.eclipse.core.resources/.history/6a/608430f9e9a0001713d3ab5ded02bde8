@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>起始页面</title>
+	</head>
+	
+	<body>
+		<form action="${pageContext.request.contextPath}/test/upload.do" method="POST" enctype="multipart/form-data">
+			文件：<input type="file" name="img"/><br>
+			<input type="submit" value="上传"/>
+		</form>
+	</body>
+</html>

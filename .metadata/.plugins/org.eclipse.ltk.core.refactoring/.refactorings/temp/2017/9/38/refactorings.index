@@ -1,0 +1,4 @@
+1505735755363	Convert local variable 'fReader' to field
+1505735782670	Convert local variable 'bufferedReader' to field
+1505736112583	Delete element
+1505736705506	Delete element

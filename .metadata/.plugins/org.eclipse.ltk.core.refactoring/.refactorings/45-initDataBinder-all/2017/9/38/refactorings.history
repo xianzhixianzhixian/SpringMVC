@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.primary.editors.MyDataEditor&apos; to &apos;MyDateEditor&apos;&#x0D;&#x0A;- Original project: &apos;45-initDataBinder-all&apos;&#x0D;&#x0A;- Original element: &apos;com.primary.editors.MyDataEditor&apos;&#x0D;&#x0A;- Renamed element: &apos;com.primary.editors.MyDateEditor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MyDataEditor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.primary.editors{MyDataEditor.java[MyDataEditor" matchStrategy="1" name="MyDateEditor" qualified="false" references="true" similarDeclarations="false" stamp="1506170773222" textual="false" version="1.0"/>
+</session>

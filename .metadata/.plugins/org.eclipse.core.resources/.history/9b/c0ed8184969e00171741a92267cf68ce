@@ -1,0 +1,7 @@
+package com.primary.beans;
+
+public class School {
+
+	private String sname;
+	private String saddress;
+}

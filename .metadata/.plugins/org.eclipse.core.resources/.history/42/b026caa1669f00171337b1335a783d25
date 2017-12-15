@@ -1,0 +1,5 @@
+package com.primary.exceptions;
+
+public class AgeException extends StudentException {
+
+}

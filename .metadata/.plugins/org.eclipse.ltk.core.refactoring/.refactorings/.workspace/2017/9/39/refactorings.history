@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;53-permissionInterceptor&apos; to &apos;51-permissionInterceptor&apos;" description="Rename resource &apos;53-permissionInterceptor&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/53-permissionInterceptor" name="51-permissionInterceptor" stamp="1506345726825" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;46-valication&apos; to &apos;46-validation&apos;" description="Rename resource &apos;46-valication&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/46-valication" name="46-validation" stamp="1506350450766" updateReferences="true"/>
+</session>

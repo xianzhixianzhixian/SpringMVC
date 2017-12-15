@@ -1,0 +1,32 @@
+<classpath>
+  <container id="49-interceptor!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/KevinSmith/Desktop/SSM/springmvc/eclipse/49-interceptor/WebContent/WEB-INF/lib/spring-webmvc-4.3.9.RELEASE.jar">
+      <source-attachment-path>C:/Users/KevinSmith/Desktop/SSM/其它所需文件/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="45-initDataBinder-all!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/KevinSmith/Desktop/SSM/springmvc/eclipse/45-initDataBinder-all/WebContent/WEB-INF/lib/spring-beans-4.3.9.RELEASE.jar">
+      <source-attachment-path>C:/Users/KevinSmith/Desktop/SSM/其它所需文件/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-beans-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="01-primary!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/KevinSmith/Desktop/SSM/springmvc/eclipse/01-primary/WebContent/WEB-INF/lib/spring-webmvc-4.3.9.RELEASE.jar">
+      <source-attachment-path>C:/Users/KevinSmith/Desktop/SSM/其它所需文件/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="12-abstractController!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/KevinSmith/Desktop/SSM/springmvc/eclipse/12-abstractController/WebContent/WEB-INF/lib/spring-webmvc-4.3.9.RELEASE.jar">
+      <source-attachment-path>C:/Users/KevinSmith/Desktop/SSM/其它所需文件/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="11-httpRequestHandlerAdapter!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/KevinSmith/Desktop/SSM/springmvc/eclipse/11-httpRequestHandlerAdapter/WebContent/WEB-INF/lib/spring-web-4.3.9.RELEASE.jar">
+      <source-attachment-path>C:/Users/KevinSmith/Desktop/SSM/其它所需文件/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-web-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+  <container id="13-multiActionController!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/KevinSmith/Desktop/SSM/springmvc/eclipse/13-multiActionController/WebContent/WEB-INF/lib/spring-webmvc-4.3.9.RELEASE.jar">
+      <source-attachment-path>C:/Users/KevinSmith/Desktop/SSM/其它所需文件/spring-framework-4.3.9.RELEASE-dist/spring-framework-4.3.9.RELEASE/libs/spring-webmvc-4.3.9.RELEASE-sources.jar</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon Sep 25 21:40:56 CST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\KevinSmith\\Desktop\\SSM\\springmvc\\eclipse\\51-permissionInterceptor\\WebContent\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar=D\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\51-permissionInterceptor\\WEB-INF\\lib\\spring-web-4.3.9.RELEASE.jar
+org.eclipse.jst.jee.server\:51-permissionInterceptor=D\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\wtpwebapps\\51-permissionInterceptor

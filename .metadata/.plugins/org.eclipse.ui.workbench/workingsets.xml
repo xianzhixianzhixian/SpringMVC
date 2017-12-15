@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505978738764_7" label="prj01-19" name="prj01-19">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/16-beanNameViewResolver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/08-requestPath" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/10-simpleUrlHandlerMapping" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/07-requestPath" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/11-httpRequestHandlerAdapter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/06-requestPath" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/13-multiActionController" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/09-requestPath" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/15-parameterMethodNameResolver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/19-ViewResolverOrder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/17-xmlViewResolver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/03-urlpattern" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/02-primary" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/18-resourceBundleViewResolver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/12-abstractController" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/04-urlpattern" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/14-propertyMethodName" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/05-urlpattern" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505978772812_8" label="prj20-39" name="prj20-39">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/30-returnObject-number" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/23-receiveParameters-Object" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/20-primary-annotation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/25-receiveParameters-pathVarible" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/21-receiveParameters-property" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/19-ViewResolverOrder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/37-simpleMappingExceptionResolver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/28-returnString-external" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/35-redirect-page" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/24-receiveParameters-ObjectProperty" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/34-returnObject-list" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/22-receiveParameters-requestParam" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/27-returnString-internal-2" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/36-redirect-controller" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/39-exceptionHandle-annotation" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/31-returnObject-String" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/38-customExceptionResolver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/32-returnObject-custom" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/29-returnVoid-AJAX" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/33-returnObject-map" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/26-returnString-internal" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1506069522553_16" label="prj40-59" name="prj40-59">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/44-initDataBinder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/40-typeConverter" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/51-permissionInterceptor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/41-typeConverter-all" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/42-typeConverter-dataBackShow" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/45-initDataBinder-all" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/47-fileUpload-single" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/43-typeConverter-errorShow" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/49-interceptor" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/50-interceptor-many" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/48-fileUpload-multi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/46-validation" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505271545873_0" label="Window Working Set" name="Aggregate for window 1505271545872"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505921181886_13" label="Multiple Working Sets" name="Aggregate:prj01-20:prj21-40:"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505921228831_15" label="Multiple Working Sets" name="Aggregate:prj:prj01-20:prj21-40:"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505921262551_16" label="Multiple Working Sets" name="Aggregate:prj:prj01-20:"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1505921363385_19" label="Multiple Working Sets" name="Aggregate:prj01-20:prj20-39:"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1506069405392_15" label="Multiple Working Sets" name="Aggregate:prj01-19:prj20-39:">
+<workingSet IMemento.internal.id="prj01-19"/>
+<workingSet IMemento.internal.id="prj20-39"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1506345714391_11" label="Multiple Working Sets" name="Aggregate:prj01-19:prj20-39:prj40-59:">
+<workingSet IMemento.internal.id="prj01-19"/>
+<workingSet IMemento.internal.id="prj20-39"/>
+<workingSet IMemento.internal.id="prj40-59"/>
+</workingSet>
+<mruList name="prj01-19"/>
+</workingSetManager>

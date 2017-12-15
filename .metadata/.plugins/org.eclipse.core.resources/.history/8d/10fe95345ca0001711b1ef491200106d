@@ -1,0 +1,7 @@
+package com.primary.editors;
+
+import org.springframework.beans.propertyeditors.PropertiesEditor;
+
+public class MyDataEditor extends PropertiesEditor {
+
+}

@@ -1,0 +1,30 @@
+package com.primary.beans;
+
+public class Student {
+
+	private String name;
+	private double score;
+	private String phoneNumber;
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public double getScore() {
+		return score;
+	}
+	public void setScore(double score) {
+		this.score = score;
+	}
+	public String getPhoneNumber() {
+		return phoneNumber;
+	}
+	public void setPhoneNumber(String phoneNumber) {
+		this.phoneNumber = phoneNumber;
+	}
+	@Override
+	public String toString() {
+		return "Student [name=" + name + ", score=" + score + ", phoneNumber=" + phoneNumber + "]";
+	}
+}

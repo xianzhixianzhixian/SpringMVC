@@ -1,0 +1,21 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<script type="text/javascript" src="js/jquery-3.2.1.js"></script>
+		<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				$("button").click(function(){
+					
+				});
+			});
+		</script>
+		<title>起始页面</title>
+	</head>
+	<body>
+		<button>提交AJAX请求</button>
+	</body>
+</html>

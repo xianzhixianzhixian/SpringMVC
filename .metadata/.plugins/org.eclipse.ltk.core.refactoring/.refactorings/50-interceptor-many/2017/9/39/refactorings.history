@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;OneInterceptor.java&apos; to &apos;50-interceptor-many/src/com.primary.interceptors&apos;&#x0D;&#x0A;- Original project: &apos;50-interceptor-many&apos;&#x0D;&#x0A;- Destination element: &apos;50-interceptor-many/src/com.primary.interceptors&apos;&#x0D;&#x0A;- Original element: &apos;com.primary.interceptors.OneInterceptor.java&apos;" description="Copy compilation unit" destination="/src&lt;com.primary.interceptors" element1="/src&lt;com.primary.interceptors{OneInterceptor.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1506266520780" units="1" version="1.0"/>
+</session>
